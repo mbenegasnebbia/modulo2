@@ -1,0 +1,25 @@
+{
+    "artistas": [
+        {
+            "id": 1,
+            "nombre": "Bad Bunny",
+            "fechaNacimiento": "1994-03-10",
+            "nacionalidad": "Puerto Rico",
+            "generos": ["Reggaeton", "Trap Latino", "Hip Hop"]
+        },
+        {
+            "id": 2,
+            "nombre": "Rosalía",
+            "fechaNacimiento": "1993-09-25",
+            "nacionalidad": "España",
+            "generos": ["Flamenco", "Pop", "Reggaeton"]
+        },
+        {
+            "id": 3,
+            "nombre": "J Balvin",
+            "fechaNacimiento": "1985-05-07",
+            "nacionalidad": "Colombia",
+            "generos": ["Reggaeton", "Pop Latino"]
+        }
+    ]
+} 

@@ -1,0 +1,19 @@
+{
+    "generos": [
+        {
+            "id": 1,
+            "nombre": "Reggaeton",
+            "descripcion": "Género musical que se deriva del reggae y el dancehall"
+        },
+        {
+            "id": 2,
+            "nombre": "Pop",
+            "descripcion": "Género musical que se caracteriza por ser comercial y accesible"
+        },
+        {
+            "id": 3,
+            "nombre": "Trap Latino",
+            "descripcion": "Variante latina del trap estadounidense"
+        }
+    ]
+} 

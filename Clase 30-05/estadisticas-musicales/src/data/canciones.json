@@ -1,0 +1,31 @@
+{
+    "canciones": [
+        {
+            "id": 1,
+            "titulo": "Me Porto Bonito",
+            "duracion": 178,
+            "fechaLanzamiento": "2022-05-06",
+            "genero": "Reggaeton",
+            "artistaId": 1,
+            "reproducciones": 1500000
+        },
+        {
+            "id": 2,
+            "titulo": "Despechá",
+            "duracion": 156,
+            "fechaLanzamiento": "2022-07-28",
+            "genero": "Pop",
+            "artistaId": 2,
+            "reproducciones": 2000000
+        },
+        {
+            "id": 3,
+            "titulo": "Mi Gente",
+            "duracion": 185,
+            "fechaLanzamiento": "2017-06-30",
+            "genero": "Reggaeton",
+            "artistaId": 3,
+            "reproducciones": 3000000
+        }
+    ]
+} 

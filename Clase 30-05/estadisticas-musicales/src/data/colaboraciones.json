@@ -1,0 +1,18 @@
+{
+    "colaboraciones": [
+        {
+            "id": 1,
+            "cancionId": 1,
+            "artistaPrincipalId": 1,
+            "artistaColaboradorId": 2,
+            "fechaColaboracion": "2022-05-06"
+        },
+        {
+            "id": 2,
+            "cancionId": 3,
+            "artistaPrincipalId": 3,
+            "artistaColaboradorId": 1,
+            "fechaColaboracion": "2017-06-30"
+        }
+    ]
+} 
